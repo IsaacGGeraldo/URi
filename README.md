@@ -1,6 +1,8 @@
 Situação da questões no URI
 # URI
 Questões do URI judge
+1001-accepted
+1003-accepted
 1059-accepted
 1062-accepted
 1068-wrong answer(10%)
