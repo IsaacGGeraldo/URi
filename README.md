@@ -29,3 +29,5 @@ Questões do URI judge
 1151-accepted  - linguagens resolvida: C
 
 1153-accepted  - linguagens resolvida: C
+
+1930-accepted  - linguagens resolvida: C
