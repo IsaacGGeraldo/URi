@@ -6,6 +6,8 @@ Questões do URI judge
 
 1003-accepted - linguagens resolvida:Ruby
 
+1044-accepted - linguagens resolvida:Java
+
 1059-accepted - linguagens resolvida: C
 
 1062-accepted - linguagens resolvida: C
